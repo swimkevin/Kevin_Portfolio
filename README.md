@@ -7,5 +7,5 @@
 # [Project 2: Web Development from Scratch](https://github.com/swimkevin/SwimChats)
 * Created a website to share my experiences with swimming and connect other swimmers
 * Designed the front-end of website using HTML and CSS
-* Developed a database to store user information with SQL
+* Developed a database to store user information with MongoDB
 * Built a back-end live chat application using Javascript and Node.js
