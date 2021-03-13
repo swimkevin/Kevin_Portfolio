@@ -1,5 +1,5 @@
 # [Project 1: Data Analysis of Tech Stocks](https://github.com/swimkevin/swimkevin.github.io)
-* Analyzed trends of Google, Amazon, and Apple stocks over 10 year period with jupyter notebook
+* Analyzed trends of GOOGL, AMZN, and AAPL over 10 year period with jupyter notebook
 * Created charts that highlighted the best and worst times of the year to purchase stocks based off 7 features
 * Predicted prices using a linear regression model with Python
 
