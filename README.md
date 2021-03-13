@@ -5,7 +5,11 @@
 * Created charts that highlighted the best and worst times of the year to purchase stocks based off 7 features
 * Predicted prices using a linear regression model with Python
 
+![](https://github.com/swimkevin/Kevin_Portfolio/blob/main/images/techstock.png)
+
 # [Project 2: Web Application To Connect Swimmers](https://github.com/swimkevin/SwimChats)
 * Designed the front-end of website from scratch using HTML and CSS
 * Developed a database to store user information with SQL
 * Built a back-end live chat application using Javascript and Node.js
+
+![](https://github.com/swimkevin/Kevin_Portfolio/blob/main/images/website.PNG)
