@@ -1,5 +1,4 @@
-# Kevin_Portfolio
-Project Portfolio
+# Kevin Song Project Portfolio
 
 # [Project 1: Data Analysis of Tech Stocks](https://github.com/swimkevin/swimkevin.github.io)
 * Analyzed trends of Google, Amazon, and Apple stocks over 10 year period
