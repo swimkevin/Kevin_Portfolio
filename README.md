@@ -1,6 +1,6 @@
 # [Project 1: Next Day Stock Predictor (In Progress)](https://github.com/swimkevin/StockPredictor)
 * Predicted the next day closing price of AAPL using LSTM model with one input feature
-* New Trials will be added to the LSTM model to support multiple input features
+* New trials will be added to the LSTM model to support multiple input features
 
 # [Project 2: Data Analysis of Tech Stocks](https://github.com/swimkevin/swimkevin.github.io)
 * Analyzed trends of GOOGL, AMZN, and AAPL over 10 year period with Jupyter Notebook
